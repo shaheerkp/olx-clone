@@ -1,0 +1,210 @@
+*{
+    padding: 0;
+    margin: 0%;
+}
+
+.search_box{
+    width: 300px;
+    display: flex;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 2px;
+    border-color: #002f34;
+    border-style: solid;
+    background-color: rgb(253, 255, 255);
+}
+.search_icon{
+    padding: 12px;
+    margin-top: 5px;
+    
+   
+
+}
+
+.navbar{
+    position: fixed;
+    display: flex;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+.nav_items{
+    margin-top: 13px;
+    
+}
+
+.search_input{
+    
+   
+    margin-top: 15px;
+    
+}
+
+.search_drop_down{
+    padding: 10px;
+    margin-top: 1px;
+    margin-left: auto;
+   
+   
+  
+}
+
+#places{
+    width: 254px;
+    
+    border-color:white;
+   
+
+}
+#Languages{
+   
+    
+    border-color:white;
+    height: 40px;
+    border-color: white;
+   
+
+}
+
+
+.search_main{
+    width: 44%;
+    display: flex;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 2px;
+    border-color: #002f34;
+    border-style: solid;
+    background-color: rgb(253, 255, 255);
+}
+
+.search_field{
+    width: 500px;
+    color: #002f34;
+    padding: 16px;
+    font-size: large;
+    border: none;
+}
+
+.search_main2{
+    padding: 13px;
+    width:fit-content;
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 2px;
+    border-color: #002f34;
+    border-style: solid;
+    background-color: #002f34;
+}
+.language_select{
+    margin-top: 24px;
+    margin-left: 15px;
+
+    
+}
+.login{
+    padding: 25px;
+    color: rgb(7, 7, 7);
+    font-size: large;
+
+
+}
+.sell_btn{
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    margin-top: 10px;
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-color: blue;
+   
+    
+}
+
+.btn{
+    margin-top: 13px;
+    font-size: large;
+}
+.category{
+    width: 100%;
+    height: 35px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+
+}
+.cat_text{
+    background-color: rgb(255, 253, 253);
+    padding: 9px;
+    width: fit-content;
+    text-align: center;
+}
+
+.banner{
+    background-image: url(https://statics.olx.in/olxin/banners/hero_bg_in@1x.png);
+    height:135px;
+  
+
+}
+.sel_btn{
+    height: 40px;
+}
+.button{
+    margin-left: 70%;
+    margin-top: -70px;
+   
+}
+
+.sel_btn{
+    border-radius:5px ;
+    width: 100px;
+    color: rgb(5, 51, 51);
+    font-size: large;
+    
+}
+
+.grid-container {
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto;
+    background-color: #ffffff;
+    padding: 10px;
+    
+    
+  }
+
+  .grid-item{
+      height: 300px;
+      width:300px;
+      border: solid;
+      margin-left: 50px;
+      margin-top: 50px;
+      border-color: dimgrey;
+      border-width: 1px;
+
+  }
+  .price{
+    text-align: left;
+    margin-top: 10px; 
+    margin-left: 20px;
+  }
+  .year{
+    text-align: left;
+    color: rgb(65, 60, 60);
+     margin-left: 20px
+  }
+  .heading{
+    margin-left: 20px;
+    font-size: x-large;
+    color: rgb(61, 61, 61);
+
+  }
+  
+
+
+
+
+
+
+
